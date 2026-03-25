@@ -1,0 +1,14 @@
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\bin\Debug\net10.0\FirstBank.Core.Domain.exe
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\bin\Debug\net10.0\FirstBank.Core.Domain.deps.json
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\bin\Debug\net10.0\FirstBank.Core.Domain.runtimeconfig.json
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\bin\Debug\net10.0\FirstBank.Core.Domain.dll
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\bin\Debug\net10.0\FirstBank.Core.Domain.pdb
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\obj\Debug\net10.0\FirstBank.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\obj\Debug\net10.0\FirstBank.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\obj\Debug\net10.0\FirstBank.Core.Domain.AssemblyInfo.cs
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\obj\Debug\net10.0\FirstBank.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\obj\Debug\net10.0\FirstBank.Core.Domain.dll
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\obj\Debug\net10.0\refint\FirstBank.Core.Domain.dll
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\obj\Debug\net10.0\FirstBank.Core.Domain.pdb
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\obj\Debug\net10.0\FirstBank.Core.Domain.genruntimeconfig.cache
+C:\Users\DELL LATITUDE 5480\Documents\SIWES_Projects\FirstBank.Core.Domain\obj\Debug\net10.0\ref\FirstBank.Core.Domain.dll
